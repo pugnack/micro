@@ -376,6 +376,8 @@ func (s *service) Start() error {
 		}
 	}
 
+	// NOTE: test
+
 	return nil
 }
 
